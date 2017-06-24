@@ -1,0 +1,1 @@
+SELECT SKU_Description FROM INVENTORY GROUP BY SKU_Description;
